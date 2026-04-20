@@ -2,10 +2,6 @@
 
 Tài liệu này tổng hợp toàn bộ các bước 100% thành công để chạy mã nguồn `CrossArch_KD` trên Google Colab, đặc biệt tối ưu cho **tập dữ liệu tự chọn (4 classes)** và xử lý toàn bộ các lỗi phiên bản (PyTorch 2.x vs 1.12).
 
-> [!IMPORTANT]
-> **Mỗi bước dưới đây tương ứng với 1 Cell (ô code) trên Colab.** Chạy tuần tự từ Bước 1 → Bước 7. Nếu Colab bị ngắt kết nối giữa chừng, bạn phải chạy lại **từ Bước 1**.
-
----
 
 ## Tổng Quan Pipeline
 

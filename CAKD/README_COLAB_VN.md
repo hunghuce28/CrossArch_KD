@@ -66,10 +66,6 @@ import torch
 print(f"✅ BƯỚC 1 HOÀN TẤT! PyTorch version: {torch.__version__}")
 ```
 
-> [!NOTE]
-> Cell này mất khoảng **5–10 phút** để chạy xong. Khi thấy dòng `✅ BƯỚC 1 HOÀN TẤT!` thì tiếp tục bước 2.
-
----
 
 ## 📂 BƯỚC 2: Giải Nén Dữ Liệu (Cell 2)
 
